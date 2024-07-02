@@ -119,6 +119,8 @@
     }
     .input-text {
         box-sizing: border-box;
+        margin: 0 4px;
+        padding: 1px 0 0 0;
         width: 156px;
         height: 37px;
         border-radius: 7px;

@@ -126,6 +126,8 @@
     }
     .input-text {
         box-sizing: border-box;
+        margin: 0 17px;
+        padding: 10px 0 0 0;
         width: 228px;
         height: 57px;
         border-radius: 7px;
