@@ -232,6 +232,7 @@ main {
     font-weight: 700;
 }
 .modal-text-1 {
+    margin: 65px 0 0 0;
     font-size: 96px;
 }
 @media (min-width: 451px) {
@@ -240,10 +241,11 @@ main {
     }
 }
 .modal-text-2 {
+    margin: 0;
     font-size: 36px;
 }
 .img-licat {
-    /* margin: 29px 0 74px 0; */
+    margin: 29px 0 74px 0;
     width: 433px;
     height: 337px;
 }
@@ -265,15 +267,13 @@ main {
     }
 
     /* header */
-    header {
-        .img-clock {
-            width: 125px;
-            height: 126px;
-        }
-        .img-title {
-            width: 267px;
-            height: 53px;
-        }
+    .img-clock {
+        width: 125px;
+        height: 126px;
+    }
+    .img-title {
+        width: 267px;
+        height: 53px;
     }
 
     /* intro */
@@ -370,13 +370,15 @@ main {
         height: 500px;
     }
     .modal-text-1 {
+        margin: 20px 0 0 0;
         font-size: 64px;
     }
     .modal-text-2 {
+        margin: 0;
         font-size: 36px;
     }
     .img-licat {
-        /* margin: 24px 0 34px 0; */
+        margin: 24px 0 34px 0;
         width: 241px;
         height: 188px;
     }
