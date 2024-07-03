@@ -1,18 +1,12 @@
 @font-face {
     font-family: 'tvN즐거운이야기';
-    src: url('src/font/tvN즐거운이야기.ttf') format('woff');
+    src: url('https://fastly.jsdelivr.net/gh/projectnoonnu/noonfonts_two@1.0/OTEnjoystoriesBA.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
 @font-face {
     font-family: 'GmarketSans';
-    src: url('src/font/GmarketSans.ttf') format('woff');
-    font-weight: normal;
-    font-style: normal;
-}
-@font-face {
-    font-family: 'GmarketSansBold';
-    src: url('src/font/GmarketSans.ttf') format('woff');
+    src: url('https://fastly.jsdelivr.net/gh/projectnoonnu/noonfonts_2001@1.1/GmarketSansMedium.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
@@ -124,7 +118,7 @@ main {
     margin: 20px;
 }
 .input-text {
-    font-family: 'GmarketSansBold';
+    font-family: 'GmarketSans';
     box-sizing: border-box;
     margin: 0 17px;
     padding: 10px 0 0 0;
@@ -152,7 +146,7 @@ main {
     border-radius: 56px;
     box-shadow: var(--shadow);
 
-    font-family: 'GmarketSansBold';
+    font-family: 'GmarketSans';
     color: var(--violet-color);
     font-size: 24px;
     font-weight: 700;
@@ -192,7 +186,7 @@ main {
     border-radius: 56px;
     box-shadow: var(--shadow);
 
-    font-family: 'GmarketSansBold';
+    font-family: 'GmarketSans';
     color: var(--violet-color);
     font-size: 24px;
     font-weight: 700;
@@ -261,7 +255,7 @@ main {
     background: var(--yellow-color);
     box-shadow: var(--shadow);
 
-    font-family: 'GmarketSansBold';
+    font-family: 'GmarketSans';
     font-size: 24px;
 }
 
