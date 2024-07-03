@@ -1,5 +1,5 @@
 # '1만 시간의 법칙' 웹 구현
-[http://127.0.0.1:5500/10000hours.html](https://ur-zoo.github.io/10000hours-project/)
+(https://ur-zoo.github.io/10000hours-project/)
 
 </br>
 
