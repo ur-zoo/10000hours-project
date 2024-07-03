@@ -219,6 +219,7 @@ main {
 
 /* modal */
 .modal {
+    display: none;
     box-sizing: border-box;
     width: 800px;
     height: 800px;
