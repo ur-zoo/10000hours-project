@@ -1,5 +1,5 @@
 # '1만 시간의 법칙' 웹 구현
-(https://ur-zoo.github.io/10000hours-project/)
+https://ur-zoo.github.io/10000hours-project/
 
 </br>
 
