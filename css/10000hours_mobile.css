@@ -1,18 +1,24 @@
 @font-face {
     font-family: 'tvN즐거운이야기';
-    src: url('/src/font/tvN즐거운이야기.ttf') format('woff');
+    src: url('src/font/tvN즐거운이야기.ttf') format('woff');
     font-weight: normal;
     font-style: normal;
 }
 @font-face {
     font-family: 'GmarketSans';
-    src: url('/src/font/GmarketSans.ttf') format('woff');
+    src: url('src/font/GmarketSans.ttf') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'GmarketSansBold';
+    src: url('src/font/GmarketSans.ttf') format('woff');
     font-weight: normal;
     font-style: normal;
 }
 @font-face {
     font-family: 'NotoSnasKR';
-    src: url('/src/font/NotoSansKR.ttf') format('woff');
+    src: url('src/font/NotoSansKR.ttf') format('woff');
     font-weight: normal;
     font-style: normal;
 }
