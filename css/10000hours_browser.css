@@ -220,7 +220,6 @@ main {
 /* modal */
 .modal {
     box-sizing: border-box;
-    padding: 76px;
     width: 800px;
     height: 800px;
     border-radius: 30px;
